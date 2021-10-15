@@ -3,7 +3,7 @@ Demo for the Solana Ignition hackathon to learn about the idea of Solarity and b
 
 <h2>Demo Description</h2>
 
-The game starts with the player waking up in his own room where he sees his past and what life used to be inside Solarity. All the different realities and times that he encountered, and all the great minds that contributed to create this open source utopia. Your personal robot will follow you, and you will go through the Bacefook offices (really subtle). 
+<p>The game starts with the player waking up in his own room where he sees his past and what life used to be inside Solarity. All the different realities and times that he encountered, and all the great minds that contributed to create this open source utopia. Your personal robot will follow you, and you will go through the Bacefook offices (really subtle). 
 
 You work at Bacefook, everybody now does. They are all working at this big project where the Zucc can build infinite simulations with unlimited computational power, by using other DAOverses. Life with their technology became mroe and more invasive, and with the Binoculus everything changed. Now everybody was a brainless slave that wanted to unify and subdue all the free thoughts.
 
@@ -11,7 +11,7 @@ There is a resistance, you will be guided by your AI. You will go through the br
 
 You will then use a candy machine dispenser (we don't use it because we didn't need to build a great scale of NFTs for the demo) to create your own DAOverse, and you will be teleported in it.
 
-There you will be able to expand, shrink and change your polyhedron and you will be able to create your own and add a flag (we are working on supporting different objects inside the world and have the possibility to enter it scaled in real life.
+There you will be able to expand, shrink and change your polyhedron and you will be able to create your own and add a flag (we are working on supporting different objects inside the world and have the possibility to enter it scaled in real life.</p>
 
 
 <h2>Testing</h2>
