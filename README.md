@@ -4,7 +4,7 @@ Demo for the Solana Ignition hackathon to learn about the idea of Solarity and b
 <h2>Demo Description</h2>
 
 (EXPLAIN WHAT A DAOVERSE IS, WHAT SOLARITY IS, WHAT WE WOULD ACTUALLY DO AND HOW PEOPLE WOULD COMMUNICATE WITH EACHOTHER)
-
+<h3> What is a DAOverse?</h3>
 
 <p>The game starts with the player waking up in his own room where he sees his past and what life used to be inside Solarity. All the different realities and times that he encountered, and all the great minds that contributed to create this open source utopia. Your personal robot will follow you, and you will go through the Bacefook offices (really subtle). 
 
