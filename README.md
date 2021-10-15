@@ -3,6 +3,9 @@ Demo for the Solana Ignition hackathon to learn about the idea of Solarity and b
 
 <h2>Demo Description</h2>
 
+(EXPLAIN WHAT A DAOVERSE IS, WHAT SOLARITY IS, WHAT WE WOULD ACTUALLY DO AND HOW PEOPLE WOULD COMMUNICATE WITH EACHOTHER)
+
+
 <p>The game starts with the player waking up in his own room where he sees his past and what life used to be inside Solarity. All the different realities and times that he encountered, and all the great minds that contributed to create this open source utopia. Your personal robot will follow you, and you will go through the Bacefook offices (really subtle). 
 
 You work at Bacefook, everybody now does. They are all working at this big project where the Zucc can build infinite simulations with unlimited computational power, by using other DAOverses. Life with their technology became mroe and more invasive, and with the Binoculus everything changed. Now everybody was a brainless slave that wanted to unify and subdue all the free thoughts.
