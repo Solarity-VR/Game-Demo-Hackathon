@@ -1,21 +1,36 @@
 # Game-Demo-Hackathon
-Demo for the Solana Ignition hackathon to learn about the idea of Solarity and build your own DAOverse. We used Unity XR toolkit to create the game.
+This demo will be the introduction to Solarity and will be made as a browser game so that people can access it and receive an NFT when finished it. It was made to let people know 
+more about Solarity and what we can do, and to have a storyline so that while other projects and other protocols are joining and building more around the world, there is going to 
+be a main P2E story that follows the origin. To keep users updated and always following the project, there are going to be multiplayer competitions inside Solarity from the start.
 
-<h2>Demo Description</h2>
+<h2>Demo description:</h2>
 
-(EXPLAIN WHAT A DAOVERSE IS, WHAT SOLARITY IS, WHAT WE WOULD ACTUALLY DO AND HOW PEOPLE WOULD COMMUNICATE WITH EACHOTHER)
-<h3> What is a DAOverse?</h3>
+<li>To learn more about the story, read the Lore*
 
-<p>The game starts with the player waking up in his own room where he sees his past and what life used to be inside Solarity. All the different realities and times that he encountered, and all the great minds that contributed to create this open source utopia. Your personal robot will follow you, and you will go through the Bacefook offices (really subtle). 
+You are an inhabitant of Solarity and here you will be able to explore your apratment with your different NFTs where thanks to them you can access alternative realities and 
+different worlds from your watch. You will be helped by your personal robot AI. Every different reality comes from a DAOverse.
+After the last update, everybody worked for Bacefook, a corporation led by a li
 
-You work at Bacefook, everybody now does. They are all working at this big project where the Zucc can build infinite simulations with unlimited computational power, by using other DAOverses. Life with their technology became mroe and more invasive, and with the Binoculus everything changed. Now everybody was a brainless slave that wanted to unify and subdue all the free thoughts.
+<h1>What is a DAOverse?</h1>
 
-There is a resistance, you will be guided by your AI. You will go through the bridge of Solarity, and there you will be able to see how different and crazy Solarity's DAOverse was, full of different buildings getting slowly replaced by grey and souless corporate stuff. The resistance is composed by people that want to access more DAOverses and build their own life to defeat Bacefook and unify again all the brains of different realities.
+All the different realities that populated Solarity shared one thing: their civilizations reached a point where an automatically scalable governance layer permited everybody to
+decide and have a voice on their development as a species, and they all had something open source that let anybody create and build their own realities, simulations and games. 
+So a DAOverse is a tool to create your own simulation based on the work of the best minds of all different realities. 
+They all agreed that such technology needed to be open source and accessible to everybody because if privatizated it would mean too much power, until...
 
-You will then use a candy machine dispenser (we don't use it because we didn't need to build a great scale of NFTs for the demo) to create your own DAOverse, and you will be teleported in it.
+<h1>What is BaceFook?</h1>
 
-There you will be able to expand, shrink and change your polyhedron and you will be able to create your own and add a flag (we are working on supporting different objects inside the world and have the possibility to enter it scaled in real life.</p>
+Bacefook is a corporation led by a multiformed being with the goal of privatizing all the knowledge ever known by stealing data and thoughts and researching everything that was happening
+inside the universe. To do so and to break a place that otherwise would have been peaceful and the maximum expression of human brains, he started by creating tools to steal people attention
+and not letting them get information on their own, because he noticed that the first sign of evolution was people actually getting informed with good resources and people had critical thinking.
+So he started with that, and started to spread fake news and alarmism so that the inhabitants of the different DAOverses would start hating eachother and they gradually stopped liking the diverse,
+and by providing everybody a tool where they can constantly mesure themselves with unrealistic standards, they start to be fooled in thinking that they are leaving, ironically enough in a
+reality actually impossible to reach. He made people scared of exploring their own mind, so a lot of people were against free DAOverses. 
+So they all started to conform more and search for refuge on a screen until the Bacefook were more and more invasive and when the Binoculus launched,  
+The Z.U.C.C. actually got access to every single different brain ever existed and reprogrammed them. Now all of Solarity is brainwashed by Bacefook and their hippocamus is used as storage for 
+offline ads.
 
+<h1>Who are the Resistance?</h1>
 
 <h2>Testing</h2>
 Download Unity or try the build file. To open it on Unity to make sure you also dont run into any issue when opening project, download Unity 2021.1.7f1 because in this version I have confirmed 4gb limit is not an issue. (https://unity3d.com/get-unity/download/archive)
