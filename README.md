@@ -1,4 +1,4 @@
-# Game-Demo-Hackathon
+# Game Demo Hackathon
 This demo will be the introduction to Solarity and will be made as a browser game so that people can access it and receive an NFT when finished it. It was made to let people know 
 more about Solarity and what we can do, and to have a storyline so that while other projects and other protocols are joining and building more around the world, there is going to 
 be a main P2E story that follows the origin. To keep users updated and always following the project, there are going to be multiplayer competitions inside Solarity from the start.
