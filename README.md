@@ -9,12 +9,12 @@ Download Unity or try the build file. To open it on Unity to make sure you also 
 <br>
 <br>You are an inhabitant of Solarity and here you will be able to explore your apratment with your different NFTs where thanks to them you can access alternative realities and 
 different worlds from your watch. You will be helped by your personal robot AI. Every different reality comes from a DAOverse.
-After the last update, everybody unknowingly worked for Bacefook since their brain was monitored and studied at all times and the only thing that they could really do is a fix set of actions and interactions that Binoculus let you do to study your behaviour.
+<br>After the last update, everybody unknowingly worked for Bacefook since their brain was monitored and studied at all times and the only thing that they could really do is a fix set of actions and interactions that Binoculus let you do to study your behaviour.
   
-The player's AI was not updated, that is why you are trying to pass through the Bacefook buildings and join the resistance. Before entering in a secret lab, 2 Bacefook drones will scan you and will test to see if you got the update by giving you a mushroom. 
+<br>The player's AI was not updated, that is why you are trying to pass through the Bacefook buildings and join the resistance. Before entering in a secret lab, 2 Bacefook drones will scan you and will test to see if you got the update by giving you a mushroom. 
 With the new update, any kind of substance that altered your mind was prohibited because it could lead to users thinking consciously and have a personality on their own, that is why with the new Binoculus anybody can eat it without feeling any effects.
-But you do feel the effect so you have to shoot the guards, after that you join the resistance and you are assigned useful tools for the creation of your own planet, like Verse tokens by the banker Serum, health from the farmer Raydium and so on.
-After that, you will reach the last copy of the candy dispenser, get your own little polyhedron and be teleported to the creation site. 
+<br>But you do feel the effect so you have to shoot the guards, after that you join the resistance and you are assigned useful tools for the creation of your own planet, like Verse tokens by the banker Serum, health from the farmer Raydium and so on.
+<br>After that, you will reach the last copy of the candy dispenser, get your own little polyhedron and be teleported to the creation site. 
 That is the actual demo of the game, where people will have the possibility to create their own DAOverse how they would like to, with different rules, members and they can expand it to have more members because a land means a governance token of the planet. 
 
 Due to time issues, the only thing that you can place on your world is a flag, but you will be able to upload whatever you want and put it inside the game, by uploading the file through Metaplex and thanks to the JSON RPC API download the content from Arweave. 
