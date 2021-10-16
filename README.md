@@ -26,7 +26,7 @@ decide and have a voice on their development as a species, and they all had some
 So a DAOverse is a tool to create your own simulation based on the work of the best minds of all different realities. 
 They all agreed that such technology needed to be open source and accessible to everybody because if privatizated it would mean too much power, until...
 
-<h3>What is BaceFook?</h3>
+<ul><h3>What is BaceFook?</h3>
 
 Bacefook is a corporation led by a multiformed being with the goal of privatizing all the knowledge ever known by stealing data and thoughts and researching everything that was happening inside the universe. To do so and to break a place that otherwise would have been peaceful and the maximum expression of human brains, he started by creating tools to steal people attention and not letting them get information on their own, because he noticed that the first sign of evolution was people actually getting informed with good resources and people had critical thinking. So he started with that, and started to spread fake news and alarmism so that the inhabitants of the different DAOverses would start hating eachother and they gradually stopped liking the diverse,and by providing everybody a tool where they can constantly mesure themselves with unrealistic standards, they start to be fooled in thinking that they are leaving, ironically enough in a reality actually impossible to reach. 
   
@@ -46,7 +46,7 @@ human development.
 We used the concept of different realities and diverse worlds living together to not be restricted to a genre, there will be some building of Solarity and partners inside the main land, but most of them it will be the community to create whatever they like and whatever they want on it. 
 
 There will be neighborhoods, where each player can live under a decisional DAO where they can be following a theme (example: Solar Punk, Japanese, steampunk etc.)
-
+</ul>
 <h2>What's next?</h2>
 
 <ul>
