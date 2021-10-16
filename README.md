@@ -11,14 +11,14 @@ You are an inhabitant of Solarity and here you will be able to explore your apra
 different worlds from your watch. You will be helped by your personal robot AI. Every different reality comes from a DAOverse.
 After the last update, everybody worked for Bacefook, a corporation led by a li
 
-<h1>What is a DAOverse?</h1>
+<h3>What is a DAOverse?</h3>
 
 All the different realities that populated Solarity shared one thing: their civilizations reached a point where an automatically scalable governance layer permited everybody to
 decide and have a voice on their development as a species, and they all had something open source that let anybody create and build their own realities, simulations and games. 
 So a DAOverse is a tool to create your own simulation based on the work of the best minds of all different realities. 
 They all agreed that such technology needed to be open source and accessible to everybody because if privatizated it would mean too much power, until...
 
-<h1>What is BaceFook?</h1>
+<h3>What is BaceFook?</h3>
 
 Bacefook is a corporation led by a multiformed being with the goal of privatizing all the knowledge ever known by stealing data and thoughts and researching everything that was happening
 inside the universe. To do so and to break a place that otherwise would have been peaceful and the maximum expression of human brains, he started by creating tools to steal people attention
@@ -30,7 +30,7 @@ So they all started to conform more and search for refuge on a screen until the 
 The Z.U.C.C. actually got access to every single different brain ever existed and reprogrammed them. Now all of Solarity is brainwashed by Bacefook and their hippocamus is used as storage for 
 offline ads.
 
-<h1>Who are the Resistance?</h1></li>
+<h3>Who are the Resistance?</h3>
 
 <h2>Testing</h2>
 Download Unity or try the build file. To open it on Unity to make sure you also dont run into any issue when opening project, download Unity 2021.1.7f1 because in this version I have confirmed 4gb limit is not an issue. (https://unity3d.com/get-unity/download/archive)
