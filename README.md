@@ -19,14 +19,14 @@ That is the actual demo of the game, where people will have the possibility to c
 
 Due to time issues, the only thing that you can place on your world is a flag, but you will be able to upload whatever you want and put it inside the game, by uploading the file through Metaplex and thanks to the JSON RPC API download the content from Arweave. 
 
-<h3>What is a DAOverse?</h3>
+<ul><h3>What is a DAOverse?</h3>
 
 All the different realities that populated Solarity shared one thing: their civilizations reached a point where an automatically scalable governance layer permited everybody to
 decide and have a voice on their development as a species, and they all had something open source that let anybody create and build their own realities, simulations and games. 
 So a DAOverse is a tool to create your own simulation based on the work of the best minds of all different realities. 
 They all agreed that such technology needed to be open source and accessible to everybody because if privatizated it would mean too much power, until...
 
-<ul><h3>What is BaceFook?</h3>
+<h3>What is BaceFook?</h3>
 
 Bacefook is a corporation led by a multiformed being with the goal of privatizing all the knowledge ever known by stealing data and thoughts and researching everything that was happening inside the universe. To do so and to break a place that otherwise would have been peaceful and the maximum expression of human brains, he started by creating tools to steal people attention and not letting them get information on their own, because he noticed that the first sign of evolution was people actually getting informed with good resources and people had critical thinking. So he started with that, and started to spread fake news and alarmism so that the inhabitants of the different DAOverses would start hating eachother and they gradually stopped liking the diverse,and by providing everybody a tool where they can constantly mesure themselves with unrealistic standards, they start to be fooled in thinking that they are leaving, ironically enough in a reality actually impossible to reach. 
   
