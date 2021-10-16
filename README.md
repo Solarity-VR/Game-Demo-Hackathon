@@ -30,7 +30,7 @@ So they all started to conform more and search for refuge on a screen until the 
 The Z.U.C.C. actually got access to every single different brain ever existed and reprogrammed them. Now all of Solarity is brainwashed by Bacefook and their hippocamus is used as storage for 
 offline ads.
 
-<h1>Who are the Resistance?</h1>
+<h1>Who are the Resistance?</h1></li>
 
 <h2>Testing</h2>
 Download Unity or try the build file. To open it on Unity to make sure you also dont run into any issue when opening project, download Unity 2021.1.7f1 because in this version I have confirmed 4gb limit is not an issue. (https://unity3d.com/get-unity/download/archive)
