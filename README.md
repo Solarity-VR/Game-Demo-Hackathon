@@ -4,6 +4,11 @@ more about Solarity and what we can do, and to have a storyline so that while ot
 be a main P2E story that follows the origin. To keep users updated and always following the project, there are going to be multiplayer competitions inside Solarity from the start.
 <h2>Testing</h2>
 Download Unity or try the build file. To open it on Unity to make sure you also dont run into any issue when opening project, download Unity 2021.1.7f1 because in this version I have confirmed 4gb limit is not an issue. (https://unity3d.com/get-unity/download/archive)
+
+Better with Oculus Quest 2.
+
+Download the Unity package here: https://drive.google.com/file/d/1OMHXVeJGWJpUzwA9xcw4ur8NHOf-7ANl/view?usp=sharing
+Build: https://drive.google.com/file/d/1NEoIY-7WjobW1wgKe0kJmbfE2rREE72t/view?usp=sharing
 <h2>Demo description:</h2>
 (To learn more about the story, read the Lore)
 <br>
