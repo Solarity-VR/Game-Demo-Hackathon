@@ -40,8 +40,20 @@ offline ads.
 Originally Solarity was created by a starting DAO that choose to open source the knowledge of their species and collaborate with other realities on creating the best possible timeline for them. This DAO gatekeeped and was the only regulation that Solarity had, but was slowly seen as too anticonformistic by the scared population and after the 
 Binoculus launch, the DAO was destructed and now the founding members hide inside the Solarity's DAOverse where they keep a secret copy of a candy dispenser that was the tool used to create planets. Different people that didn't get the update are joining the resistance and want to fight for intellectual freedom for themselves and for the seek of 
 human development.
-  
-  
+
+<h3>How will Solarity look like?</h3>
+
+We used the concept of different realities and diverse worlds living together to not be restricted to a genre, there will be some building of Solarity and partners inside the main land, but most of them it will be the community to create whatever they like and whatever they want on it. 
+
+There will be neighborhoods, where each player can live under a decisional DAO where they can be following a theme (example: Solar Punk, Japanese, steampunk etc.)
+
+<h2>What's next?</h2>
+
+<li>Polish the demo, make it a browser game with the VR option and build a website with an NFT marketplace and a playable in game demo and an interactive Solarity's Goldberg polyhedron updated to the tiles new owners.
+
+<li>Start building the 3D VR World, expand the storyline by creating a P2E experience and create partnerships with NFT projects and other protocols to build their own XR experience inside Solarity
+
+<li> Start working on building XR and Solana toolkits for a Rust based game engine, and build SDKs and tools for users to create their own NFTs, games and experiences inside Solarity 
 
 
 <h2>Lore</h2>
