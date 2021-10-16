@@ -49,11 +49,13 @@ There will be neighborhoods, where each player can live under a decisional DAO w
 
 <h2>What's next?</h2>
 
-<li>Polish the demo, make it a browser game with the VR option and build a website with an NFT marketplace and a playable in game demo and an interactive Solarity's Goldberg polyhedron updated to the tiles new owners.
+<ul>
+  <li>Polish the demo, make it a browser game with the VR option and build a website with an NFT marketplace and a playable in game demo and an interactive Solarity's Goldberg polyhedron updated to the tiles new owners.
 
 <li>Start building the 3D VR World, expand the storyline by creating a P2E experience and create partnerships with NFT projects and other protocols to build their own XR experience inside Solarity
 
 <li> Start working on building XR and Solana toolkits for a Rust based game engine, and build SDKs and tools for users to create their own NFTs, games and experiences inside Solarity 
+  </ul>
 
 
 <h2>Lore</h2>
