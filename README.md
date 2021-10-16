@@ -4,8 +4,7 @@ more about Solarity and what we can do, and to have a storyline so that while ot
 be a main P2E story that follows the origin. To keep users updated and always following the project, there are going to be multiplayer competitions inside Solarity from the start.
 
 <h2>Demo description:</h2>
-
-<li>To learn more about the story, read the Lore*
+To learn more about the story, read the Lore
 
 You are an inhabitant of Solarity and here you will be able to explore your apratment with your different NFTs where thanks to them you can access alternative realities and 
 different worlds from your watch. You will be helped by your personal robot AI. Every different reality comes from a DAOverse.
