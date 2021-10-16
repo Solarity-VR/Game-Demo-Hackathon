@@ -6,7 +6,7 @@ be a main P2E story that follows the origin. To keep users updated and always fo
 <h2>Demo description:</h2>
 (To learn more about the story, read the Lore)
 <br>
-You are an inhabitant of Solarity and here you will be able to explore your apratment with your different NFTs where thanks to them you can access alternative realities and 
+<br>You are an inhabitant of Solarity and here you will be able to explore your apratment with your different NFTs where thanks to them you can access alternative realities and 
 different worlds from your watch. You will be helped by your personal robot AI. Every different reality comes from a DAOverse.
 After the last update, everybody unknowingly worked for Bacefook since their brain was monitored and studied at all times and the only thing that they could really do is a fix set of actions and interactions that Binoculus let you do to study your behaviour.
   
