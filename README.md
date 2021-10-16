@@ -2,7 +2,8 @@
 This demo will be the introduction to Solarity and will be made as a browser game so that people can access it and receive an NFT when finished it. It was made to let people know 
 more about Solarity and what we can do, and to have a storyline so that while other projects and other protocols are joining and building more around the world, there is going to 
 be a main P2E story that follows the origin. To keep users updated and always following the project, there are going to be multiplayer competitions inside Solarity from the start.
-
+<h2>Testing</h2>
+Download Unity or try the build file. To open it on Unity to make sure you also dont run into any issue when opening project, download Unity 2021.1.7f1 because in this version I have confirmed 4gb limit is not an issue. (https://unity3d.com/get-unity/download/archive)
 <h2>Demo description:</h2>
 (To learn more about the story, read the Lore)
 <br>
@@ -41,8 +42,7 @@ Binoculus launch, the DAO was destructed and now the founding members hide insid
 human development.
   
   
-<h2>Testing</h2>
-Download Unity or try the build file. To open it on Unity to make sure you also dont run into any issue when opening project, download Unity 2021.1.7f1 because in this version I have confirmed 4gb limit is not an issue. (https://unity3d.com/get-unity/download/archive)
+
 
 <h2>Lore</h2>
 
